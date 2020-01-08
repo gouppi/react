@@ -1,0 +1,17 @@
+.Pokedex-pokemons {
+	display: flex;
+	align-items:center;
+}
+
+.Pokedex-foobar {
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+}
+
+.Pokedex-winning {
+	color: green;
+}
+.Pokedex-losing {
+	color: red;
+}
